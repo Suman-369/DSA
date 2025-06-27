@@ -3,7 +3,7 @@
   <i>A growing repository of well-structured, efficient JavaScript solutions to Data Structures and Algorithms problems.</i><br>
   <b>Built with a focus on clarity, scalability, and coding interview excellence.</b>
 </p>
-
+<h4 align= "right"> Java Script </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square">

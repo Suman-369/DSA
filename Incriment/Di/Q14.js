@@ -5,3 +5,5 @@ while(i%3!==0){
     i--
     
 }
+
+// out put 10 and loop run only one time 

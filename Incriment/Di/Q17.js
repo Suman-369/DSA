@@ -5,3 +5,5 @@ while(true){
     x++
     if(x>3) break
 }
+
+//output 123 and loop run onluy 3 times

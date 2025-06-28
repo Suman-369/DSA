@@ -5,3 +5,5 @@ while(i>0){
     i--
     
 }
+
+// out put will be  321 

@@ -1,5 +1,5 @@
-let arr = [10,20,30,40]
+let prompt = require("prompt-sync")()
 
+let size = Number(prompt("Enter Size of an Array: "))
 
-console.log(arr[2]);
-
+let arr = new Array(size)

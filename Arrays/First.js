@@ -12,3 +12,7 @@ for(let i =0 ;i<arr.length;i++){
 }
 
 console.log("Array is: " + sum);
+
+
+// output  idx sum means idx 0 + idx 1 + idx 2 = result 
+// example 10 +20 +30 = 60

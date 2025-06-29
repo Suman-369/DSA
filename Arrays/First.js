@@ -4,6 +4,9 @@ let size = Number(prompt("Enter Size of an Array: "))
 
 let arr = new Array(size)
 
-for(let i =0 ;i<arr.lendth;i++){
-    
+for(let i =0 ;i<arr.length;i++){
+    arr[i] = Number(prompt(`Enter ElementcAt idx ${i+0}: `))
+
 }
+
+console.log("Array is: ", arr);

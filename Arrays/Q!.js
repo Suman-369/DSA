@@ -13,3 +13,4 @@ console.log(arr);
 
 
 // Out put [6 , 5 ,4 ,3, 2, 1] 
+// beacause its compare leftand right value if the loop condition match then interchange the arr value 

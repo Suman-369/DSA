@@ -10,3 +10,6 @@ while(left<right){
 }
 
 console.log(arr);
+
+
+// Out put [6 , 5 ,4 ,3, 2, 1] 

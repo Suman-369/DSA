@@ -10,4 +10,4 @@ arr[arr.length-1] = last
 console.log(arr);
 
 
-//OutPut [   5, 15,  8, 3, 46, 19, 10]
+//OutPut [5, 15,  8, 3, 46, 19, 10]

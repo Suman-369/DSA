@@ -9,3 +9,5 @@ for(let i = arr.length - 1; i > 0; i--) {
 arr[0] = first;
 
 console.log(arr);
+
+//Out Put [19, 10,  5, 15, 8,  3, 46]

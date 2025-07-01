@@ -10,3 +10,6 @@ while(left<right){
 }
 
 console.log(arr);
+
+
+//output = [19 , 46 , 3 , 8 , 15 , 5 ,10]

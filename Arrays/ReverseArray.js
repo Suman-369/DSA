@@ -10,4 +10,3 @@ while(left<right){
 }
 
 console.log(arr);
-

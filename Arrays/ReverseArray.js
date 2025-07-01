@@ -13,4 +13,3 @@ console.log(arr);
 
 
 // it will bw a any other approach 
-

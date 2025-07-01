@@ -8,7 +8,7 @@ for(let i = 2 ;i<arr.length;i++){
     if(arr[i]>max){
         sMax = max
         max = arr[i]}
-     else if(arr[i]>sMax){
+     else if(arr[i]>sMax && arr[i]!= max){
         sMax = arr[i]
         }
 }

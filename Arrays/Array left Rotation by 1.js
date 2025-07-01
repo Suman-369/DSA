@@ -8,3 +8,6 @@ for(let i = 0;i<arr.length-1 ; i++){
 arr[arr.length-1] = last
 
 console.log(arr);
+
+
+//OutPut [   5, 15,  8, 3, 46, 19, 10]

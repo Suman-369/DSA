@@ -5,7 +5,7 @@ let search = Number(prompt("Enter the number to search: "));
 
 for(let i = 0 ; i<arr.length;i++){
     if(arr[i]===search){
-        break; 
+        break; // Exit the loop once the element is found
     }
 }
 

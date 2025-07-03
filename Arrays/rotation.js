@@ -15,3 +15,4 @@ for(let j = 1 ; j<=k ; j++){
 }
 
 console.log(arr);
+// its maybe how many rotation need to do this perform 

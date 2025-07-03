@@ -14,3 +14,6 @@ if(arr.indexOf(search) === -1) {
 } else{
     console.log("Element found at index:", arr.indexOf(search));
 }
+
+
+// output if u enter 15 then output will be element found at indes 2

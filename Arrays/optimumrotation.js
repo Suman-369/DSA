@@ -27,3 +27,5 @@ function reverse(arr, i, j) {
         j--;
     }
 }
+
+// output should be if you enter k = 2 then output [3, 4, 5, 1, 2]

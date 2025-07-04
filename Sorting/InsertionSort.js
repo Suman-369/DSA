@@ -12,3 +12,6 @@ for (let i = 0; i < arr.length ; i++) {
     arr[j + 1] = key;
 }
 console.log(arr);
+
+
+//OUT PUT 

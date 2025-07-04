@@ -1,4 +1,6 @@
 
+// Binary Search Programme
+
 let prompt = require('prompt-sync')();
 
 let arr = [10, 5, 15, 8, 3, 46, 19];

@@ -1,82 +1,63 @@
-# 📊 Some Types of Time Complexity
 
----
 
-## 🔹 O(1) – Constant Time Complexity
+o(1) =>
 
-Basically, it's called **Constant Time Complexity**.
+  Basically its called Constant Time Complexity  ..   => matlab jab bhi n ki value koi constant value diya gya ho i means when n = 2 , n = 10 . n= 100, n= 10000 like this .. jab n ki value pehele se he difine kiya ho koi bhi programme mein  This type of programme time complexity is O(1)  .
 
-- **Meaning**: When `n` (input size) is a predefined constant value like `n = 2`, `n = 10`, `n = 100`, or `n = 10000`.
-- **Time doesn't change** with the input size.
-- ✅ **Example**: Accessing an array element by index.
 
----
 
-## 🔹 O(n) – Linear Time Complexity
+  o(n) => 
 
-Basically, it's called **Linear Time Complexity**.
+  Basically its called Linear time Complexity
 
-- **Meaning**: When `n` depends on **user input** and operations are performed based on that input.
-- Time increases **linearly** with input size.
-- ✅ **Example**: Loop that runs from `1 to n`.
+  when n ki value user input k upar depand karta hai and the operation us input k upar depand karke perform karta hai then this tupe of time complexity is called o(n)
 
----
 
-## 🔹 O(n²) – Quadratic Time Complexity
+  o(n^2)  =>
 
-Basically, it's called **Quadratic Time Complexity**.
 
-- **Meaning**: When the program has a **nested loop**, each running up to `n`.
-- Time grows **exponentially** with input size.
-- ✅ **Example**:
+  Basically Its Called Quadratic Time Complexity
 
-```javascript
-for (let i = 0; i <= n; i++) {
-    for (let j = 0; j <= n; j++) {
-        // Bubble sort logic or similar nested loop operations
-    }
-}
-🔹 O(log n) – Logarithmic Time Complexity
-Basically, it's called Logarithmic Time Complexity.
+  When koi v performance or programme main nestade loop use ho raha ho then this type of time time complexity is called o(n^2).
 
-Meaning: When the input size is reduced drastically (halved) in each operation.
+  exmaple :- for(let i = 0 ; i <=n ;i++){
+                for(let j = 0 ; j<= n ; j++){
 
-Efficient for large inputs.
+                    its use lie bobble sort algorithm   
 
-✅ Example: Binary Search algorithm.
+                }
+  }
 
-🔹 O(2ⁿ) – Exponential Time Complexity
-Basically, it's called Exponential Time Complexity.
+ 
+ o(log n ) => 
 
-Meaning: When the number of operations doubles for every increment in n.
+Basically its  Called Logarithmic Time Complexity
 
-Very inefficient for large n.
+Means  Agar koi input size ka value  bht bada ho and ek operation main he uska value bht kam ho gya ho then this type of programmes time complexity is called o(log n) time complexity ..
 
-✅ Example: Recursive calculation of Fibonacci numbers.
+Example like imagine you have a binary search algorithm in which you have to find a number in a sorted array of numbers . The time complexity of this algorithm is O(log n) because with each step, you are effectively halving the search space.  
 
-ini
-Copy
-Edit
-n = 3 → 2^3 = 8 operations
-🔹 O(n!) – Factorial Time Complexity
-Basically, it's called Factorial Time Complexity.
 
-Meaning: Operations grow in factorial scale with input size.
 
-Very expensive and slow for large inputs.
+o(2^n) => 
 
-✅ Example: Solving Traveling Salesman Problem (TSP) with brute force.
+Basically its Called Exponential Time Complexity
 
-ini
-Copy
-Edit
-n = 6 → 6! = 6 × 5 × 4 × 3 × 2 × 1 = 720 operations
-🔹 O(n log n) – Linearithmic Time Complexity
-Basically, it's called Linearithmic Time Complexity.
+when n ki value ke upar based karke bht jyda operation lage then this type of time complexity is called o(2^n) time complexity ..
 
-Meaning: When there's a combination of linear and logarithmic operations.
+like n = 3 then 2 ^n = 2^3 = 8 
 
-Common in efficient sorting algorithms.
 
-✅ Example: Merge Sort, Heap Sort, Quick Sort (average case).
+o(n!) => 
 
+Basically its Called Factorial Time Complexity
+
+when n ki value ke upar based karke bht jyda operation lage then this type of time complexity is called o(n!) time complexity ..
+
+example n = 6 
+then  n! = 6 * 5 * 4 * 3 * 2 * 1 = 720 operation 
+
+
+o(n log n) =>
+
+agar koi programme like example koi nestade loop use kar raha ho and uske first loop n tim complexity use kar raha ho and under wala loop log n time complexity use kar raha ho then this type of time complexity is called o(nlogn) time complexity ..

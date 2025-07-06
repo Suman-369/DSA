@@ -1,3 +1,5 @@
+// Calculate Sum Of Left arr and Right Arr i means in 2-D array calculate the value of element ## CrossWise 
+
 let arr = [[1, 2, 3], [4, 5, 6], [7, 8, 9]];
 
 let leftSum = 0 , rightSum = 0 ;

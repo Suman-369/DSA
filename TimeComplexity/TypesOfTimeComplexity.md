@@ -62,8 +62,24 @@ then  n! = 6 * 5 * 4 * 3 * 2 * 1 = 720 operation
 agar koi programme like example koi nestade loop use kar raha ho and uske first loop n tim complexity use kar raha ho and under wala loop log n time complexity use kar raha ho then this type of time complexity is called o(nlogn) time complexity ..
 
 
- example :- 
+ ## example :- 
 
  1 . n >= 10^9  =   O(1) , o(log n )
 
  2 . n <=10^8  =  O(log n) , o(n)
+
+
+  ## Efecient way 
+
+  1<= n <= 10^4 {
+    O(1) , o(log n)
+    o(n log n) , o(n) , o(n²)
+  }
+
+ 1<= n <= 10^5 , 10^6 {
+  O(1) , o(n)
+ }
+
+  1<= n <= 10^8 , 10^9 {
+    O(1) , o(log n)
+  }

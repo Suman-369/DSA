@@ -1,4 +1,7 @@
 
+
+// 2-D Array With User Input
+
 let prompt = require("prompt-sync")()
 
 let innerArrSize = Number(prompt("Enter the size of array: "))

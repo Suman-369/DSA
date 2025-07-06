@@ -39,7 +39,7 @@ Example like imagine you have a binary search algorithm in which you have to fin
 
 
 
-##🔹 O(2ⁿ) – Exponential Time Complexity
+## 🔹 O(2ⁿ) – Exponential Time Complexity
 
 Basically its Called Exponential Time Complexity
 

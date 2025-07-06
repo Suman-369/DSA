@@ -29,7 +29,7 @@ for (let i = 0; i <= n; i++) {
 }
 
  
- o(log n ) => 
+## 🔹 O(log n) – Logarithmic Time Complexity
 
 Basically its  Called Logarithmic Time Complexity
 

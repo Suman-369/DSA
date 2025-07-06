@@ -17,3 +17,8 @@ for(let i = 0 ; i < arr.length ; i++){
 
 console.log("Left Diagonal Sum: " + leftSum);
 console.log("Right Diagonal Sum: " + rightSum);
+
+
+// OUTPUT 
+// Left Diagonal Sum: 15
+// Right Diagonal Sum: 15

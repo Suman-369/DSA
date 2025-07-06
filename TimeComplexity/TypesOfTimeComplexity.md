@@ -14,8 +14,7 @@
 
   when n ki value user input k upar depand karta hai and the operation us input k upar depand karke perform karta hai then this tupe of time complexity is called o(n)
 
-
-  o(n^2)  =>
+## 🔹 O(n²) – Quadratic Time Complexity
 
 
   Basically Its Called Quadratic Time Complexity

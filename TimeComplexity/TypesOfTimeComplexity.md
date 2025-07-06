@@ -1,6 +1,8 @@
 
+# 📊 Some Types of Time Complexity
 
-o(1) =>
+
+## 🔹 O(1) – Constant Time Complexity
 
   Basically its called Constant Time Complexity  ..   => matlab jab bhi n ki value koi constant value diya gya ho i means when n = 2 , n = 10 . n= 100, n= 10000 like this .. jab n ki value pehele se he difine kiya ho koi bhi programme mein  This type of programme time complexity is O(1)  .
 

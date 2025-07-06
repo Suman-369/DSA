@@ -57,3 +57,7 @@ when n ki value ke upar based karke bht jyda operation lage then this type of ti
 example n = 6 
 then  n! = 6 * 5 * 4 * 3 * 2 * 1 = 720 operation 
 
+
+o(n log n) =>
+
+agar koi programme like example koi nestade loop use kar raha ho and uske first loop n tim complexity use kar raha ho and under wala loop log n time complexity use kar raha ho then this type of time complexity is called o(nlogn) time complexity ..

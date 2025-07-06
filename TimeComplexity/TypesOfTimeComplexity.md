@@ -21,13 +21,12 @@
 
   When koi v performance or programme main nestade loop use ho raha ho then this type of time time complexity is called o(n^2).
 
-  exmaple :- for(let i = 0 ; i <=n ;i++){
-                for(let j = 0 ; j<= n ; j++){
-
-                    its use lie bobble sort algorithm   
-
-                }
-  }
+  exmaple :- ```javascript
+for (let i = 0; i <= n; i++) {
+    for (let j = 0; j <= n; j++) {
+        // Bubble sort logic or similar nested loop operations
+    }
+}
 
  
  o(log n ) => 

@@ -83,3 +83,9 @@ agar koi programme like example koi nestade loop use kar raha ho and uske first 
   1<= n <= 10^8 , 10^9 {
     O(1) , o(log n)
   }
+
+
+
+  ## space Complexity
+
+  let = > o(1)

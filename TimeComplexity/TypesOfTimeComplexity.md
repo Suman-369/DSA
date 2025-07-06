@@ -8,7 +8,7 @@
 
 
 
-  o(n) => 
+## 🔹 O(n) – Linear Time Complexity
 
   Basically its called Linear time Complexity
 

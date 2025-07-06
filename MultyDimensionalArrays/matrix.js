@@ -4,12 +4,11 @@
 
 let prompt = require("prompt-sync")()
 
-let innerArrSize = Number(prompt("Enter the size of array: "))
-
-let arr = new Array(innerArrSize)
-let Size = Number(prompt("Enter the size of inner array: "))
+let Size = Number(prompt("Enter the size of array: "))
+let arr = new Array(Size)
+let innerArrSize = Number(prompt("Enter the size of inner array: "))
 for(let i = 0; i<arr.length;i++){
-    arr[i] = new Array(Size)
+    arr[i] = new Array(innerArrSize)
 }
 
 for(let i = 0; i<arr.length;i++){

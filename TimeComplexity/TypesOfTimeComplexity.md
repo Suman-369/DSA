@@ -60,3 +60,10 @@ then  n! = 6 * 5 * 4 * 3 * 2 * 1 = 720 operation
 ## 🔹 O(n log n) – Linearithmic Time Complexity
 
 agar koi programme like example koi nestade loop use kar raha ho and uske first loop n tim complexity use kar raha ho and under wala loop log n time complexity use kar raha ho then this type of time complexity is called o(nlogn) time complexity ..
+
+
+ example :- 
+
+ 1 . n >= 10^9  =   O(1) , o(log n )
+
+ 2 . n <=10^8  =  O(log n) , o(n)

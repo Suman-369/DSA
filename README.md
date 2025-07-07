@@ -93,8 +93,4 @@ Stay consistent. Keep challenging yourself. Success is a side-effect of persiste
 
 📌 Connect with Me
 
-💼 LinkedIn
-
-🐦 Twitter/X
-
-📧 Email: suman@example.com (Replace with your real one)
+📧 Email: www.skar2022@gmail.com

@@ -1,68 +1,100 @@
-<h1 align="center">🧠 JavaScript DSA Practice</h1>
-<p align="center">
-  <i>A growing repository of well-structured, efficient JavaScript solutions to Data Structures and Algorithms problems.</i><br>
-  <b>Built with a focus on clarity, scalability, and coding interview excellence.</b>
-</p>
-<h4 align= "center"> Java Script </h4>
-<p align="center">
+
+<h1 align="center">🧠 JavaScript DSA Practice</h1><p align="center">
+  <i>Efficient and well-structured JavaScript solutions for mastering Data Structures & Algorithms.</i><br>
+  <b>Designed for clarity, scalability, and interview excellence.</b>
+</p><h4 align="center">Language: JavaScript (ES6+)</h4><p align="center">
   <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square">
   <img src="https://img.shields.io/badge/DSA-100%2B_Problems-blueviolet?style=flat-square">
   <img src="https://img.shields.io/badge/Maintainer-Suman%20Kar-orange?style=flat-square">
 </p>
+---
+
+🚀 Overview
+
+This repository is a curated collection of JavaScript solutions to some of the most popular and frequently asked Data Structures and Algorithms problems.
+
+Every solution is crafted to be:
+
+📌 Readable – Clean and well-commented code
+
+⚡ Efficient – Optimized for performance
+
+💡 Educational – Designed to help you learn and grow
+
+🎯 Interview-Focused – Inspired by real-world coding interviews
+
+
+> 🧠 "DSA is not just about solving problems. It’s about solving them better every day."
+
+
+
 
 ---
 
-## 🚀 Overview
+🎯 Objectives
 
-This repository is a curated collection of **JavaScript solutions** to popular **Data Structures and Algorithms** problems.  
-Each solution is designed to be:
+Strengthen core DSA and problem-solving fundamentals
 
-- 📌 Clear and concise  
-- ⚡ Optimized for performance  
-- 💬 Commented for understanding  
-- 📈 Inspired by real-world technical interviews
+Build a consistent habit with daily coding practice
 
-> Practicing DSA daily is key to succeeding in product-based company interviews.
+Develop reusable, scalable, and clean code patterns
 
----
+Ace coding interviews at FAANG and other top-tier companies
 
-## 🎯 Goals
+Give back to the dev community through shared learning
 
-- Strengthen core DSA concepts and algorithmic thinking  
-- Build consistency with a daily coding habit  
-- Document learning with clean, reusable code  
-- Prepare for roles at Google, Microsoft, Amazon, and other tech giants  
-- Share knowledge with the developer community  
+
 
 ---
 
-## 📂 Topics Covered
+📚 Topics Covered
 
-| Category                    | Status | Description                                      |
-|-----------------------------|--------|--------------------------------------------------|
-| ✅ Arrays                   | ✔️      | Search, sort, sliding window, two pointers       |
-| ✅ Strings                  | ✔️      | Manipulation, frequency maps, regex, substrings  |
-| ✅ Linked Lists             | ✔️      | Singly, doubly, fast & slow pointer techniques    |
-| ✅ Stacks & Queues          | ✔️      | Expression evaluation, monotonic stacks, etc.     |
-| ✅ Trees & BST              | ✔️      | DFS, BFS, recursion, traversals, construction     |
-| ✅ Graphs                   | ✔️      | Adjacency list, BFS, DFS, cycle detection         |
-| ✅ Dynamic Programming      | ✔️      | Memoization, tabulation, LIS, Knapsack            |
-| ✅ Greedy Algorithms        | ✔️      | Activity selection, intervals, coin change        |
-| ✅ Recursion & Backtracking | ✔️      | Permutations, combinations, N-Queens, sudoku      |
-| ✅ Bit Manipulation         | ✔️      | XOR tricks, masks, bit counting                   |
+Category	Status	Key Concepts
 
----
+✅ Arrays	✔️	Two pointers, sliding window, sorting, prefix sums
+✅ Strings	✔️	Pattern matching, substrings, frequency maps, regex
+✅ Linked Lists	✔️	Singly, doubly, cycle detection, reversal
+✅ Stacks & Queues	✔️	Monotonic stack, expression parsing, deque operations
+✅ Trees & BST	✔️	DFS, BFS, recursion, serialization
+✅ Graphs	✔️	Adjacency list, BFS/DFS, topological sort, cycles
+✅ Dynamic Programming	✔️	Memoization, tabulation, subsequences, knapsack
+✅ Greedy Algorithms	✔️	Activity selection, intervals, coin change
+✅ Recursion & Backtracking	✔️	N-Queens, permutations, combinations, Sudoku solver
+✅ Bit Manipulation	✔️	XOR, bitmasks, counting bits, binary tricks
 
-## 🛠 Tech Stack
 
-- **Language**: JavaScript (ES6+)
-- **Runtime**: Node.js
-- **Tools**: VS Code, Git
-- **Problem Sources**: LeetCode, GeeksForGeeks, HackerRank, Codeforces
 
 ---
 
+🛠 Tech Stack
 
-"Each bug is a lesson. Each solution is a step forward."
+💻 Language: JavaScript (ES6+)
 
+🧪 Runtime: Node.js
+
+🛠️ Tools: VS Code, Git
+
+📌 Sources: LeetCode, GeeksForGeeks, HackerRank, Codeforces
+
+
+
+---
+
+💬 Final Note
+
+> ✨ “Each bug is a lesson. Each solution is a step forward.”
+Stay consistent. Keep challenging yourself. Success is a side-effect of persistent growth.
+
+
+
+
+---
+
+📌 Connect with Me
+
+💼 LinkedIn
+
+🐦 Twitter/X
+
+📧 Email: suman@example.com (Replace with your real one)

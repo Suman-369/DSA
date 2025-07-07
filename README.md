@@ -64,4 +64,5 @@ Each solution is designed to be:
 ---
 
 
+"Each bug is a lesson. Each solution is a step forward."
 

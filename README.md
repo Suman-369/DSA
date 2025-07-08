@@ -27,7 +27,7 @@ Every solution is crafted to be:
 
 > 🧠 "DSA is not just about solving problems. It’s about solving them better every day."
 
-
+"Code a little. Learn a lot. Repeat daily."
 
 
 ---

@@ -78,7 +78,6 @@ Category	Status	Key Concepts
 📌 Sources: LeetCode, GeeksForGeeks, HackerRank, Codeforces
 
 
-"Code a little. Learn a lot. Repeat daily."
 
 ---
 

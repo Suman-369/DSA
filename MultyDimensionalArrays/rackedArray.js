@@ -20,3 +20,4 @@ for(let i = 0 ; i<arr.length ; i++){
     
 }
 
+//Explain : - This is Bassically holdes a 2D arrays  with the diff Size of Array

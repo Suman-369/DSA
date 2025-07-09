@@ -71,7 +71,7 @@ Category	Status	Key Concepts
 
 💻 Language: JavaScript (ES6+)
 
-🧪 Runtime: Node.js
+🧪 Runtime: Node.js , Browser 
 
 🛠️ Tools: VS Code, Git
 

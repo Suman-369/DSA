@@ -1,5 +1,5 @@
 
-<h1 align="center">🧠 JavaScript DSA Practice</h1><p align="center">
+<h1 align="center">🧠 JavaScript DSA Practice !!</h1><p align="center">
   <i>Efficient and well-structured JavaScript solutions for mastering Data Structures & Algorithms.</i><br>
   <b>Designed for clarity, scalability, and interview excellence.</b>
 </p><h4 align="center">Language: JavaScript (ES6+)</h4><p align="center">
@@ -71,7 +71,7 @@ Category	Status	Key Concepts
 
 💻 Language: JavaScript (ES6+)
 
-🧪 Runtime: Node.js
+🧪 Runtime: Node.js , Browser 
 
 🛠️ Tools: VS Code, Git
 
@@ -81,7 +81,7 @@ Category	Status	Key Concepts
 
 ---
 
-💬 Final Note
+💬 Final Note to u
 
 > ✨ “Each bug is a lesson. Each solution is a step forward.”
 Stay consistent. Keep challenging yourself. Success is a side-effect of persistent growth.

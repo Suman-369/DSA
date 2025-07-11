@@ -22,7 +22,7 @@ for(let i = 0 ; i< arr.length ; i++){
 for(let i = 0 ; i <arr.length ; i++){
 let k = 0 ;j = arr.length -1;
 while(k<j){
- 
+ // Swap the elements
    let temp  =  arr[i][k]
     arr[i][k] = arr[i][j]
     arr[i][j] = temp
@@ -33,3 +33,6 @@ while(k<j){
 
 
 console.log(arr);
+
+
+// OutPut =>        [ [ 7, 4, 1 ], [ 8, 5, 2 ], [ 9, 6, 3 ] ]

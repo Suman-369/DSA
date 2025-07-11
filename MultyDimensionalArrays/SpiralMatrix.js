@@ -1,3 +1,7 @@
+
+
+// leet Code Problem No 54 Spiral Matrix
+
 let matrix = [
     [ 1,  2,  3,  4],
     [ 5,  6,  7,  8],
@@ -16,6 +20,7 @@ let left = 0
 let right = matrix[0].length-1
 
 while(top <= bottom && left<=right){
+
     for(let i = left ; i<=right;i++){
         result.push(matrix[top][i])
     }

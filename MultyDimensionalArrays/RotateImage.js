@@ -6,6 +6,8 @@
 
 let arr = [[1,2,3],[4,5,6],[7,8,9]];
 
+// perform the Transpose Operation
+
 for(let i = 0 ; i< arr.length ; i++){
     for(let j = i ; j<arr[i].length ; j++){
         // Swap the elements
@@ -16,9 +18,11 @@ for(let i = 0 ; i< arr.length ; i++){
     }
 }
 
+//Perform the reverse Operation
 for(let i = 0 ; i <arr.length ; i++){
 let k = 0 ;j = arr.length -1;
 while(k<j){
+ 
    let temp  =  arr[i][k]
     arr[i][k] = arr[i][j]
     arr[i][j] = temp

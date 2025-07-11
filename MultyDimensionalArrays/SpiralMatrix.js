@@ -51,3 +51,7 @@ while(top <= bottom && left<=right){
 
 
 console.log(result);
+
+
+
+// OUT PUT [ 1,  2,  3, 4, 8, 12, 11, 10, 9, 5, 6, 7]

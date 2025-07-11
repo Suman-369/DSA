@@ -10,4 +10,12 @@ for(let i =0 ; i < ans.length; i++){
     }
 }
 
-console.log(ans );
+console.log(ans);
+
+// Out Put 
+
+// [ [ 1, 4, 7 ]
+//  [ 2, 5, 8 ]
+//  [ 3, 6, 9 ] ]
+
+

@@ -1,3 +1,5 @@
+//reverse The string then print it 
+
 let s = "Suman"
 
 let rev = ""

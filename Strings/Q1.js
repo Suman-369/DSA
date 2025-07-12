@@ -8,4 +8,9 @@ for(let i = 0 ; i<s.length;i++){
     
 }
 
-// 
+// OUT PUT 
+// s
+// u
+// m
+// a
+// n

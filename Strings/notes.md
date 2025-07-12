@@ -1,3 +1,6 @@
+
+                                   ## string
+
 ## string are immutable in nature
 ## strings are sequence of characters
 

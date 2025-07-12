@@ -65,3 +65,6 @@ for (let i = str.length - 1; i >= 0; i--) {
 console.log("Reversed string:", reversed);
 
 Displaying Day47.md.
+sole.log("Reversed string:", reversed);
+
+Displaying Day47.md.

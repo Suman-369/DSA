@@ -1,3 +1,7 @@
+//Leet Code  question no 832 Fliping an image 
+
+// intiution :-  reverse the array and replace the 0 to 1 and 1 to 0 of the arrays elements
+
 let arr = [[1,0,1], [0,1,0], [1,0,1]];
 
 for(let row of arr){

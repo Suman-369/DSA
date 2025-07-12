@@ -13,3 +13,4 @@ for(let row of arr){
 }
 console.log(arr);
 
+//OUT PUT  [ [ 0, 1, 0 ], [ 1, 0, 1 ], [ 0, 1, 0 ] ]

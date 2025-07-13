@@ -1,3 +1,5 @@
+// Convert Capital latter To small Latter And Small Latter to capital Latter 
+
 let prompt = require("prompt-sync")()
 let s = prompt("Enter a string: ")
 

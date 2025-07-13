@@ -1,3 +1,6 @@
+//first and last latter of every word should be capital 
+
+
 let s = "hello suman kya haal chaal"
 
 

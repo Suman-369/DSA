@@ -1,3 +1,6 @@
+// Check A String is  Pallindrom Or Not !!
+
+
 let prompt = require("prompt-sync")()
 
 let s =  prompt("enter a string : ")

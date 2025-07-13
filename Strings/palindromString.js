@@ -25,3 +25,5 @@ else console.log("Its Not A Pallindrom ");
 // OUT PUT 
 // enter a string : suman
 // Its Not A Pallindrom 
+// enter a string : madam
+// Its A Pallindrom 

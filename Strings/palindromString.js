@@ -21,3 +21,7 @@ while(i<j){
 if(isPallindrom) console.log("Its A Pallindrom ");
 
 else console.log("Its Not A Pallindrom ");
+
+// OUT PUT 
+// enter a string : suman
+// Its Not A Pallindrom 

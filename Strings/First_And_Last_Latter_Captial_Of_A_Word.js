@@ -16,3 +16,6 @@ for(let i = 0 ; i<arrStr.length;i++){
 }
 
 console.log(ans);
+
+
+//OUT PUT => HellO SumaN KyA HaaL ChaaL

@@ -1,3 +1,5 @@
+// find word with the start latter 
+
 let word = ["attention" , "People" , "attire" , "hello" , "attend"]
 
 let s = "at"
@@ -7,3 +9,6 @@ for(let i = 0 ; i<word.length ;i++){
 }
 
 console.log(count);
+
+
+// OUT PUT  3

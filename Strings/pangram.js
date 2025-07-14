@@ -1,3 +1,6 @@
+
+// leet code 1832 // check a sentence is pangram or not 
+
 let sentence = 'abcdefghijklmnopqrstuvwxyz'
 
 let set = new Set()

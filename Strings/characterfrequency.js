@@ -18,4 +18,13 @@ for(let i = 0 ; i<freqArr.length;i++){
     }
 }
 
+//OUT PUT 
+
+// Enter a String : suman
+// a -> 1
+// m -> 1
+// n -> 1
+// s -> 1
+// u -> 1
+
 

@@ -1,3 +1,6 @@
+//Bit map
+
+
 let prompt = require('prompt-sync')()
 
 let s = prompt("Enter a String : ")

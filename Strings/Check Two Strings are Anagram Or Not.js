@@ -30,3 +30,8 @@ for(let i = 0 ;i<freqArr.length;i++){
  else console.log("Given String are Not Anagram");
  
 }
+
+//OUT PUT 
+//Enter String One :taste
+// Enter String Two :state
+// Given String are Anagram

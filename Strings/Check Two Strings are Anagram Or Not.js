@@ -1,3 +1,5 @@
+// Anagram Or Not
+
 let prompt = require("prompt-sync")()
 
 let s1 = prompt ("Enter String One :")

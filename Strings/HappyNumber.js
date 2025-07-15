@@ -27,3 +27,9 @@ while(true){
     
     
 }
+
+// Out Put
+// Enter A number : 2
+// Not A Happy Number 
+// Enter A number : 19
+//  Happy Number 

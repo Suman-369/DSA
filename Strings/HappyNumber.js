@@ -1,3 +1,5 @@
+//Leet Code question No 202
+
 let prompt = require("prompt-sync")()
 
 let n  = prompt("Enter A number : ")

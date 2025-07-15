@@ -1,6 +1,6 @@
 
 
-## Map in JavaScript:
+## Map in JavaScript:-
 Map is a built-in object that holds key-value pairs.
 Unlike regular objects, a Map can have keys of any type (not just strings or symbols).
 

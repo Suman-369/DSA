@@ -11,3 +11,7 @@ for(let i = 0 ; i<arr.length;i++){
 }
 
 console.log(map);
+
+// OUT PUT 
+
+// Map(6) { 1 => 1, 2 => 4, 10 => 2, 4 => 1, 3 => 1, 5 => 1 }

@@ -16,3 +16,6 @@ let prompt = require("prompt-sync")()
 let num = prompt("Enter a number: ")
 
 console.log((num&1)== 0 ? "even" : "odd");
+
+
+//Out put >> if 8 then even

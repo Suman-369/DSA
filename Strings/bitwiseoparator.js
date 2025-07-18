@@ -11,3 +11,8 @@ console.log(25<<2); // out put 100
 
 
 
+let prompt = require("prompt-sync")()
+
+let num = prompt("Enter a number: ")
+
+console.log((num&1)== 0 ? "even" : "odd");

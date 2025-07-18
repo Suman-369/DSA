@@ -10,7 +10,7 @@ console.log(25>>2); // out put 6
 console.log(25<<2); // out put 100
 
 
-
+// even or Odd check help of bitwise operator 
 let prompt = require("prompt-sync")()
 
 let num = prompt("Enter a number: ")

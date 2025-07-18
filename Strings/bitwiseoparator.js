@@ -29,3 +29,6 @@ let n = pro("Enter a number: ")
 
 console.log((n&(n-1))== 0 ? "power of two" : "not power of two");
 
+
+// out put if 32 >> power of two
+

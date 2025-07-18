@@ -19,3 +19,8 @@ console.log((num&1)== 0 ? "even" : "odd");
 
 
 //Out put >> if 8 then even
+let pro = require("prompt-sync")()
+
+let n = pro("Enter a number: ")
+
+console.log((n&(n-1))== 0 ? "power of two" : "not power of two");

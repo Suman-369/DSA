@@ -19,8 +19,13 @@ console.log((num&1)== 0 ? "even" : "odd");
 
 
 //Out put >> if 8 then even
+
+
+
+// check the number power of two or not by using bit wise operator
 let pro = require("prompt-sync")()
 
 let n = pro("Enter a number: ")
 
 console.log((n&(n-1))== 0 ? "power of two" : "not power of two");
+

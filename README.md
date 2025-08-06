@@ -81,7 +81,7 @@ Category	Status	Key Concepts
 
 ---
 
-💬 Final Note to u
+💬 Final Note to you
 
 > ✨ “Each bug is a lesson. Each solution is a step forward.”
 Stay consistent. Keep challenging yourself. Success is a side-effect of persistent growth.

@@ -1,5 +1,5 @@
 
-<h1 align="center">🧠 JavaScript DSA Practice ✍️ <> </h1><p align="center">
+<h1 align="center">🧠 JavaScript DSA Practice ✍️  </h1><p align="center">
   <i>Efficient and well-structured JavaScript solutions for mastering Data Structures & Algorithms.</i><br>
   <b>Designed for clarity, scalability, and interview excellence.</b>
 </p><h4 align="center">Language: JavaScript (ES6+)</h4><p align="center">

@@ -1,6 +1,6 @@
 
 <h1 align="center">🧠 JavaScript DSA Practice ✍️  </h1><p align="center">
-  <i>Efficient and well-structured JavaScript solutions for mastering Data Structures & Algorithms. + Leet Code Question</i><br>
+  <i> Efficient and well-structured JavaScript solutions for mastering Data Structures & Algorithms. + Leet Code Question</i><br>
   <b>Designed for clarity, scalability, and interview excellence.</b>
 </p><h4 align="center">Language: JavaScript (ES6+)</h4><p align="center">
   <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square">

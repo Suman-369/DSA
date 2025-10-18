@@ -10,7 +10,7 @@
 </p>
 ---
 
-🚀 Overview :-
+🚀 Overview ::
 
 This repository is a curated collection of JavaScript solutions to some of the most popular and frequently asked Data Structures and Algorithms problems.
 

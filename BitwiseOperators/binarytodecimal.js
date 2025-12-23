@@ -13,5 +13,7 @@ console.log(25>>2);
 // out put = > 6 
 
 
-
+//LeftShift Operator 
 console.log(25<<2);
+
+// Out put = > 100

@@ -1,3 +1,6 @@
+// two sum problem with most efficient way using map and set
+
+
 let target = 9 
 let nums = [2,7,11,15]
 

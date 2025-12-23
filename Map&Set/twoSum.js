@@ -24,3 +24,6 @@ function twoSum(nums,target){
 
 }
 console.log(twoSum(nums,target))
+
+
+// out put [ 0, 1 ]

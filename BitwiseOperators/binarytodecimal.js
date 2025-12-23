@@ -7,7 +7,7 @@
 //                            101  ===>> 5
 
 
-
+// rightShift Operator
 console.log(25>>2);
 
 

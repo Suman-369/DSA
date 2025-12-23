@@ -14,3 +14,4 @@ console.log(25>>2);
 
 
 
+console.log(25<<2);

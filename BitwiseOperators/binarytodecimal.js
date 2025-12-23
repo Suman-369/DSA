@@ -10,5 +10,7 @@
 // rightShift Operator
 console.log(25>>2);
 
+// out put = > 6 
+
 
 

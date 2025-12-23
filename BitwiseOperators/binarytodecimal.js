@@ -18,7 +18,7 @@ console.log(25<<2);
 
 // Out put = > 100
 
-
+// what is the out put of the following question 
 let count = 0 , num =64
 
 while(num !=0){
@@ -31,3 +31,5 @@ while(num !=0){
 }
 
 console.log(count);
+
+// out put == 6 

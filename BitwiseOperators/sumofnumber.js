@@ -1,18 +1,20 @@
-let n = 369;
+// Normal way to calculate sum of given number of all the digit .
 
-let sum = 0;
+let n = 369; // initialize number 
 
-while (n > 0) {
-  let rem = n % 10;
-  sum += rem;
-  n = Math.floor(n / 10);
+let sum = 0; // put the sum value initially 0
+
+while (n > 0) { // check if the given number getter then 0 or not 
+  let rem = n % 10; // calculate the last digit of the given number 
+  sum += rem; // add the calculated reminder like 3 + 6 + 9
+  n = Math.floor(n / 10);  // remove the last element that calculated yet 
 }
 
-console.log("Sum of Number is : ", sum);
+console.log("Sum of Number is : ", sum); // print the total sum of the number 
 
 
 
-// with recursion '
+// with recursion 'way 
 
 
 function sumofdigit(num){

@@ -17,15 +17,25 @@ console.log("Sum of Number is : ", sum); // print the total sum of the number
 // with recursion 'way 
 
 
-function sumofdigit(num){
-    if(num<10){
-        return num ;
+function sumofdigit(num){  // a function that accept a argument number 
+    if(num<10){  // check if the number is a single digit or not 
+        return num ; // if single digit return that number 
 
     }
-    return (num%10) + sumofdigit(Math.floor(num/10))
+    return (num%10) + sumofdigit(Math.floor(num/10)) // add the last number that exist add it to the return value of if condithion 
 }
 
-let num = 731898
+ let num = 731898    //  initialize number
 
-console.log(sumofdigit(num))
+console.log(sumofdigit(num)) // print the function 
+
+
+
+
+
+// IMPORTANT POINT 
+
+// n % 10 === >>>  reminder if number is 369 means after n % 10 it gives 9 
+
+// n/10  ===>>> reminder if number is 369 means after n / 10 it gives  36
 

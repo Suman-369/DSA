@@ -1,3 +1,5 @@
+// NOrmal Way to solve reverse of a digit 
+
 let n = 369;
 
 let rev = 0;

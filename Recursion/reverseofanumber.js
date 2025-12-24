@@ -16,12 +16,12 @@ console.log("Reversed Number is : ", rev); // print the last  rev value
 
 // with recursion way
 
-function reverseofanumber(num , rev){
-    if( num === 0 ) return rev 
+function reverseofanumber(num , rev){ // a function which is accept a number and the reverse value 
+    if( num === 0 ) return rev // check the given number is 0 or not if 0 then retun rev  
 
-    return reverseofanumber(Math.floor(num/10) , rev*10 + num%10)
+    return reverseofanumber(Math.floor(num/10) , rev*10 + num%10) // other wise  retrun the cut of one number and sath he sath calculated rev value (0*10) + (369%10)  => 9
 }
 
-let num = 369;
+let num = 369; // initialize the number 
 
-console.log(reverseofanumber(num , 0))
+console.log(reverseofanumber(num , 0)) // print the function 

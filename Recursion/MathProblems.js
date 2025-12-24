@@ -39,3 +39,13 @@ function gcd(a, b) {
 }
 
 console.log(gcd(a,b)); // Output: 4
+
+
+// Optimized version using modulus operator
+
+function gcdOptimized(a, b) { // 32, 20 
+  if (b == 0) return a; // base case: if b is 0, return a // 20 ==0 false 
+  return gcdOptimized(b, a % b); // recurse with b and the remainder of a divided by b // a = 20 , b = 32 % 20 = 12
+}
+// same thing repeat again and again until b == 0 
+console.log(gcdOptimized(a,b)); // Output: 4

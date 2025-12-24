@@ -9,3 +9,17 @@ while (n > 0) {
 }
 
 console.log("Reversed Number is : ", rev);
+
+
+
+// with recursion way
+
+function reverseofanumber(num , rev){
+    if( num === 0 ) return rev 
+
+    return reverseofanumber(Math.floor(num/10) , rev*10 + num%10)
+}
+
+let num = 369;
+
+console.log(reverseofanumber(num , 0))

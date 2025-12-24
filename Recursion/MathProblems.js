@@ -1,16 +1,13 @@
 // Highest Common Factor (HCF) or Greatest Common Divisor (GCD) of two numbers using iteration
 
 
-let a = 32
+let a = 32 // initialize a number in a  
 
-let b = 20
+let b = 20 // initialize a number in b
 
-for ( let i = Math.min(a,b);  i>=1 ; i-- ){
+for ( let i = Math.min(a,b) ; i>=1 ; i-- ){
     if( a % i === 0 && b % i === 0 ){
         console.log(i)
         break
-       
-        
     }
 }
-

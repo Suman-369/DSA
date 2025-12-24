@@ -26,3 +26,16 @@ while (c != d) { // check c or d same or not
 }
 
 console.log(c);
+
+
+// Another recursive function to find HCF/GCD using modulus operator
+
+// to minimize the time complexity
+
+function gcd(a, b) {
+  if (a == b) return a; // base case: if both numbers are equal, return either one
+  if (a > b) return gcd(a - b, b); // if a is greater, subtract b from a and recurse
+  return gcd(a, b - a); // if b is greater, subtract a from b and recurse
+}
+
+console.log(gcd(a,b)); // Output: 4

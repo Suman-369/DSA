@@ -1,3 +1,5 @@
+// sort the two sorted array into a combine array 
+
 let arr1 = [2,4,5]
 
 let arr2 = [1,3,7]

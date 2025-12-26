@@ -22,3 +22,6 @@ function maxSubArray( nums){
 let nums = [-2,1,-3,4,-1,2,1,-5,4]; // array set example 
 
 console.log(maxSubArray(nums)); // print ans
+
+
+// OUT PUT = 6

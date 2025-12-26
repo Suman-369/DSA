@@ -1,6 +1,8 @@
 // leetcode 121 question Max profit 
 
 
+// QUestion ka motive a hai ki tumko sabse chota stock bue karna padega in an array and feuture main max profit k sath bechna padega 
+
 function maxProfit(nums){
     let min = nums[0]; // sabse pehla value ko min main store karlo
     let maxProfit = 0 // maxProfit ko 0 se initialize karlo

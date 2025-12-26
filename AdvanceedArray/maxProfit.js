@@ -1,3 +1,6 @@
+// leetcode 121 question Max profit 
+
+
 function maxProfit(nums){
     let min = nums[0]; // sabse pehla value ko min main store karlo
     let maxProfit = 0 // maxProfit ko 0 se initialize karlo

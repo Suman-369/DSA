@@ -1,6 +1,10 @@
 // LeetCode Question no 11
 
 
+// question :=>  Ek Container hai usme bohot sara gight ka index hai tumko find karna hoga ki max kitna water contain kar sakte hai
+
+// ans :=> ham pehele ek ans value initialize kar 
+
 function MostWaterContainer(arr){
     let ans = 0 ; i = 0 , j = arr.length-1
 

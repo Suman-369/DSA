@@ -29,3 +29,6 @@ let arr = [2,0,2,1,1,0];
 sortColors(arr);
 
 console.log(arr);
+
+
+// out put  = [ 0, 0, 1, 1, 2, 2 ]

@@ -26,4 +26,4 @@ function trappingrainwater(arr){ // a function that calculates the amount of wat
 
 
 let arr = [0,1,0,2,1,0,1,3,2,1,2,1]; // initialize a array 
-console.log(trappingrainwater(arr)); // output the result of the function
+console.log(trappingrainwater(arr)); // output the result of the function .
